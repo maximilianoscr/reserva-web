@@ -15,6 +15,7 @@
               <div class="col-sm-4 wowload fadeInUp"><a href="images/photos/11.jpg" title="Living Room" class="gallery-image" data-gallery><img src="images/photos/11.jpg" class="img-responsive"></a></div>
               <div class="col-sm-4 wowload fadeInUp"><a href="images/photos/1.webp" title="Fruits" class="gallery-image" data-gallery><img src="images/photos/1.webp" class="img-responsive"></a></div>
               <div class="col-sm-4 wowload fadeInUp"><a href="images/photos/10.webp" title="Travel" class="gallery-image" data-gallery><img src="images/photos/10.webp" class="img-responsive"></a></div>
+              <div class="col-sm-4 wowload fadeInUp"><a href="images/photos/13.webp" title="Paisaje" class="gallery-image" data-gallery><img src="images/photos/13.webp" class="img-responsive"></a></div>
        </div>
 </div>
 <?php include 'footer.php';?>
